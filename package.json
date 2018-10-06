@@ -1,0 +1,22 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo_create_mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiagoW/cursoNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HiagoW/cursoNode/issues"
+  },
+  "homepage": "https://github.com/HiagoW/cursoNode#readme",
+  "dependencies": {
+    "mongodb": "^3.1.6"
+  }
+}
